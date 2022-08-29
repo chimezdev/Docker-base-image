@@ -63,6 +63,7 @@ Now anytime any changes is made to the code, buiding should be faster.
 # GLOSSARY
 
 # Term 	            Definition
+
 `Base Image`	A set of common dependencies built into a Docker      image that acts as a starting point to build an application’s Docker images to reduce build times
 `Container` 	Grouped software dependencies and packages that make it easier and more reliable to deploy software
 `Container Registry` 	A centralized place to store container images
